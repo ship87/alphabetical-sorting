@@ -1,6 +1,7 @@
 #Sort letters in words by alphabetical order in random string
 
 Examples:
+
 'lemon orange banana apple' ---> 'elmno aegnor aaabnn aelpp'
 
 'лимон апельсин банан яблоко' ---> 'илмно аеилнпсь аабнн бклооя'
